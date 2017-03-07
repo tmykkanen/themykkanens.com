@@ -28,7 +28,7 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - keanemind/gh-pages@0.2.4
+    - keanemind/gh-pages@0.2.4:
         token: GIT_TOKEN
         domain: themykkanens.com
         basedir: public
