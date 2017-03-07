@@ -24,3 +24,11 @@ build:
         version: "0.17"
         theme: hugo-sustain
         flags: --buildDrafts=true
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - keanemind/gh-pages@0.2.4
+        token: GIT_TOKEN
+        domain: themykkanens.com
+        basedir: public
