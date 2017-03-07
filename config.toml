@@ -1,0 +1,35 @@
+baseurl = "https://example.com/"
+languageCode = "en-US"
+title = "The Mykkanens"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Tyler Mykkanen"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = ""
+  Email         = "mr.tyler.mykkanen@gmail.com"
+  Twitter       = ""
+  LinkedIn      = ""
+  Stackoverflow = ""
+  Facebook 		= "tyler.mykkanen"
+
+## Main Menu
+[[menu.main]]
+  name = "ireland"
+  weight = 100
+  identifier = "ireland"
+  url = "/ireland/"
