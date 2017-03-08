@@ -1,4 +1,4 @@
-baseurl = "themykkanens.com"
+baseurl = "https://tmykkanen.github.io/themykkanens.com/"
 languageCode = "en-US"
 title = "The Mykkanens"
 # Enable comments by entering your Disqus shortname
@@ -33,4 +33,4 @@ publishDir =  "docs"
   name = "ireland"
   weight = 100
   identifier = "ireland"
-  url = "ireland"
+  url = "/ireland/"
