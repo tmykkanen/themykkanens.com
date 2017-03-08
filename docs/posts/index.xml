@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Mykkanens</title>
-    <link>https://tmykkanen.github.io/themykkanens.com/posts/index.xml</link>
+    <link>http://themykkanens.com/posts/index.xml</link>
     <description>Recent content in Posts on The Mykkanens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 06 Mar 2017 22:24:17 -0600</lastBuildDate>
-    <atom:link href="https://tmykkanen.github.io/themykkanens.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://themykkanens.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First</title>
-      <link>https://tmykkanen.github.io/themykkanens.com/posts/first-post/</link>
+      <link>http://themykkanens.com/posts/first-post/</link>
       <pubDate>Mon, 06 Mar 2017 22:24:17 -0600</pubDate>
       
-      <guid>https://tmykkanen.github.io/themykkanens.com/posts/first-post/</guid>
+      <guid>http://themykkanens.com/posts/first-post/</guid>
       <description>&lt;p&gt;This is a first post.&lt;/p&gt;
 </description>
     </item>
