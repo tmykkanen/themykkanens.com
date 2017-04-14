@@ -28,6 +28,7 @@ html, body {
 a {
   color: $brand-color;
   text-decoration: none;
+  transition: all .5s ease;
 
   @include on-event {
     color: $text-color;

@@ -16,6 +16,7 @@
 
   .navbar-brand:focus,
   .navbar-brand:hover {
+    transition: all .5s ease;
     color: $pale-green;
   }
 
@@ -25,6 +26,7 @@
 
   .navbar-nav > li > a {
     color: $light-grey;
+    transition: all .5s ease;
   }
 
   .navbar-nav > li > a:focus,

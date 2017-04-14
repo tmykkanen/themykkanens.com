@@ -32,3 +32,9 @@
   }
 }
 
+/// For setting type
+/// from https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
+@mixin type-setting($level: 0) {
+  font-size: type-scale($level);
+  line-height: line-height($level);
+}

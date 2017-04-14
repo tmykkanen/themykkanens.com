@@ -28,3 +28,13 @@
 @function font($path, $base: $base-url) {
   @return asset($base, 'fonts/', $path);
 }
+
+
+/// Typescale function from https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
+@function type-scale($level) {
+  @return map-get($type-scale, $level);
+}
+
+@function line-height($level) {
+  @return map-get($line-heights, $level);
+}

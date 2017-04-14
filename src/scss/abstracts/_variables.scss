@@ -5,7 +5,6 @@
 
 
 
-
 /// Regular font family
 /// @type List
 $text-font-stack: 'Source Sans Pro', sans-serif !default;
@@ -13,6 +12,8 @@ $text-font-stack: 'Source Sans Pro', sans-serif !default;
 /// Code (monospace) font family
 /// @type List
 $code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Monaco', monospace !default;
+
+
 
 
 /// Main brand color
@@ -46,13 +47,9 @@ $text-color: $dark-grey !default;
 
 
 
-
-
-
 /// Container's maximum width
 /// @type Length
 $max-width: 800px !default;
-
 
 
 
@@ -67,7 +64,7 @@ $mq-breakpoints: (
     large:    1300px
 );
 
-$mq-show-breakpoints: (vsmall, small, medium, large) !default;
+
 
 
 
