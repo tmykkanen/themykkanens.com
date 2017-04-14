@@ -1,0 +1,94 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+/* Navbar */
+.navbar-static-top {
+  margin-bottom: 10px;
+}
+
+.navbar-default {
+  background-color: $dark-grey;
+  border-color: $dark-grey;
+
+  .navbar-brand {
+    color: $light-grey;
+  }
+
+  .navbar-brand:focus,
+  .navbar-brand:hover {
+    color: $pale-green;
+  }
+
+  .navbar-text {
+    color: $light-grey;
+  }
+
+  .navbar-nav > li > a {
+    color: $light-grey;
+  }
+
+  .navbar-nav > li > a:focus,
+  .navbar-nav > li > a:hover {
+    color: $pale-green;
+  }
+
+  .navbar-nav > .active > a,
+  .navbar-nav > .active > a:focus,
+  .navbar-nav > .active > a:hover {
+    color: $pale-green;
+    background-color: $dark-grey;
+  }
+
+  .navbar-nav > .open > a,
+  .navbar-nav > .open > a:focus,
+  .navbar-nav > .open > a:hover {
+    color: $pale-green;
+    background-color: $dark-grey;
+  }
+
+  .navbar-toggle {
+    border-color: $dark-grey;
+
+    .icon-bar {
+      background-color: $pale-green;
+    }
+  }
+
+  .navbar-toggle:focus,
+  .navbar-toggle:hover {
+    background-color: $dark-grey;
+  }
+
+  .navbar-collapse,
+  .navbar-form {
+    border-color: $pale-green;
+  }
+
+  .navbar-link {
+    color: $light-grey;
+  }
+
+  .navbar-link:hover {
+    color: $pale-green;
+  }
+}
+
+@include mq ($from: vsmall, $until: medium ) {
+  .navbar-default .navbar-nav .open {
+    .dropdown-menu > li > a {
+      color: $light-grey;
+    }
+
+    .dropdown-menu > li > a:focus,
+    .dropdown-menu > li > a:hover {
+      color: $pale-green;
+    }
+
+    .dropdown-menu > .active > a,
+    .dropdown-menu > .active > a:focus,
+    .dropdown-menu > .active > a:hover {
+      color: $pale-green;
+      background-color: $dark-grey;
+    }
+  }
+}

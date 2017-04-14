@@ -1,0 +1,31 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the panel component.
+// -----------------------------------------------------------------------------
+
+.panel-default h4 {
+  text-align: left;
+  line-height: 24px;
+  font-size: 22px;
+}
+.panel-default h5 {
+  text-align: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+.panel-default h6 {
+  font-size: 15px;
+}
+.panel-default h4 a, h5 a {
+  color: $brand-color;
+}
+.panel-default h4 a:hover, h5 a:hover {
+  color: $brand-color-darker;
+}
+.panel{
+  border-style: none;
+  background-color: $white;
+}
+.panel-body {
+  padding-top: -10px;
+  text-align: left;
+}

@@ -1,0 +1,28 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the social component.
+// -----------------------------------------------------------------------------
+
+.social-links {
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 100%;
+  text-align: center;
+  animation: fade 1s ease 1s both;
+}
+.social-links li {
+  display: inline-block;
+  padding: 5px;
+  padding-top: 0;
+  text-align: center;
+}
+.social-links li a {
+  font-size: 20px;
+  color: #2c363f;
+  padding: 10px;
+  padding-bottom: 4px;
+  transition: all .4s ease;
+}
+.social-links li a:hover {
+  color: #87d68d;
+}

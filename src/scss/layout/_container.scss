@@ -1,0 +1,18 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the container of the site/application.
+// -----------------------------------------------------------------------------
+
+.container {
+  width: auto;
+  max-width: 800px;
+  text-align: center;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+.container a {
+  color: #ff3b3f;
+}
+.container a:hover {
+  color: #c41318;
+}

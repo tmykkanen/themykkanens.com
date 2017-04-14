@@ -1,0 +1,78 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+
+
+
+/// Regular font family
+/// @type List
+$text-font-stack: 'Source Sans Pro', sans-serif !default;
+
+/// Code (monospace) font family
+/// @type List
+$code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Monaco', monospace !default;
+
+
+/// Main brand color
+/// @type Color
+$brand-color: hsla(359, 100%, 62%, 1) !default;
+
+/// Main brand color darker
+/// @type Color
+$brand-color-darker: hsla(358, 82%, 42%, 1) !default;
+
+/// Light grey
+/// @type Color
+$light-grey: hsla(0, 0%, 95%, 1)!default;
+
+/// White
+/// @type Color
+$white: hsla(0, 0%, 100%, 1)!default;
+
+/// Dark grey
+/// @type Color
+$dark-grey: hsla(208, 18%, 21%, 1) !default;
+
+/// Pale Green
+/// @type Color
+$pale-green: hsla(125, 49%, 68%, 1) !default;
+
+/// Copy text color
+/// @type Color
+$text-color: $dark-grey !default;
+
+
+
+
+
+
+
+/// Container's maximum width
+/// @type Length
+$max-width: 800px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$mq-breakpoints: (
+    vsmall:  320px,
+    small:  740px,
+    medium: 980px,
+    large:    1300px
+);
+
+$mq-show-breakpoints: (vsmall, small, medium, large) !default;
+
+
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '/assets/' !default;
