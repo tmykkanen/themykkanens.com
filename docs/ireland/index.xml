@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Mykkanens</title>
-    <link>http://themykkanens.com/</link>
+    <link>http://themykkanens.com/ireland/</link>
     <description>Recent content on The Mykkanens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Apr 2017 15:01:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2017 15:08:28 -0500</lastBuildDate>
     
-	<atom:link href="http://themykkanens.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://themykkanens.com/ireland/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -38,35 +38,6 @@ You can give online at http://bit.</description>
       <guid>http://themykkanens.com/ireland/ireland/</guid>
       <description>This June, I am traveling with the Bethlehem Baptist Church choir to proclaim the name of Jesus in Ireland. I will provide pastoral leadership for our team, deliver gospel teachings, and meet with Irish church leaders, missionaries, and planters.
 Ireland is a land of remarkable beauty and history. The Irish people are welcoming and warm hearted. Yet, for all the beauty and cultural richness, Ireland is a land of deep suffering.</description>
-    </item>
-    
-    <item>
-      <title>Partner With Us</title>
-      <link>http://themykkanens.com/partner/</link>
-      <pubDate>Mon, 06 Mar 2017 09:19:56 -0600</pubDate>
-      
-      <guid>http://themykkanens.com/partner/</guid>
-      <description>We are blessed and thankful for your desire to partner with us as we obey God’s call on our lives. You can partner with us in the following ways.
-Pray for and with us This is by far the most significant way you can partner with us during this time. We serve a sovereign and good God who know’s our needs and desires before we ask him and works all things for our good and His Glory.</description>
-    </item>
-    
-    <item>
-      <title>Why BCS?</title>
-      <link>http://themykkanens.com/why-bcs/</link>
-      <pubDate>Mon, 06 Mar 2017 09:18:30 -0600</pubDate>
-      
-      <guid>http://themykkanens.com/why-bcs/</guid>
-      <description>I am grateful to the Lord for allowing me to set aside time for focused and intensive study into His Word and for the Godly men I will be learning from at Bethlehem College and Seminary. As Nicole and I prayerfully considered which seminary would best prepare me for future ministry, BCS was distinctive in several key areas.
- Church Embedded - BCS is tightly integrated with the daily life of Bethlehem Baptist Church.</description>
-    </item>
-    
-    <item>
-      <title>Our Story</title>
-      <link>http://themykkanens.com/story/</link>
-      <pubDate>Mon, 06 Mar 2017 09:07:16 -0600</pubDate>
-      
-      <guid>http://themykkanens.com/story/</guid>
-      <description>Nicole and I met in middle school through a mutual friend. We lived in different cities, but often visited each other. We steadily grew in our friendship and eventually married the summer after graduation from High School. During the early years of our marriage, Nicole worked at Taste of Seattle as a Baker and I went to school at Saint Cloud State University for a B.S. in Special Education. Our dream was to start a family and in 2006 we had our first child, Malachi.</description>
     </item>
     
   </channel>

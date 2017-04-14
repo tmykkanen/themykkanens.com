@@ -4,7 +4,7 @@ date = "2017-04-03T17:05:42-06:00"
 categories = []
 tags = []
 description = "June 2–15, 2017"
-
+type = "page"
 +++
 
 This June, I am traveling with the Bethlehem Baptist Church choir to proclaim the name of Jesus in Ireland. I will provide pastoral leadership for our team, deliver gospel teachings, and meet with Irish church leaders, missionaries, and planters.

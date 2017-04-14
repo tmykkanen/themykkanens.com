@@ -21,11 +21,15 @@
 // 4. Layout-related sections
 @import
   'layout/header',
+  'layout/blog',
+  'layout/container',
   'layout/footer';
 
 // 5. Components
 @import
   'components/button',
+  'components/img',
+  'components/social',
   'components/panel';
 
 // 6. Page-specific styles
