@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://themykkanens.com/ireland/blog/support-update/</loc>
+    <lastmod>2017-04-14T17:42:37-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://themykkanens.com/ireland/</loc>
+    <lastmod>2017-04-13T15:08:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://themykkanens.com/ireland/blog/</loc>
     <lastmod>2017-04-13T15:08:28-05:00</lastmod>
   </url>
   
@@ -48,7 +58,7 @@
   
   <url>
     <loc>http://themykkanens.com/</loc>
-    <lastmod>2017-04-13T15:01:53-05:00</lastmod>
+    <lastmod>2017-04-14T17:42:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
