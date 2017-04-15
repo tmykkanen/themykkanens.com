@@ -33,4 +33,19 @@ publishDir =  "docs"
   name = "ireland"
   weight = 100
   identifier = "ireland"
-  url = "/ireland/"
+  url = "/ireland/ireland"
+[[menu.main]]
+  name = "Give"
+  weight = 200
+  identifier = "Financial Partnership"
+  url = "/ireland/finances"
+[[menu.main]]
+    name = "Pray"
+    weight = 300
+    identifier = "Prayer Support"
+    url = "/ireland/prayer"
+[[menu.main]]
+    name = "Trip Log"
+    weight = 400
+    identifier = "Trip Log"
+    url = "/ireland/blog"

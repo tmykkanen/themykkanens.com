@@ -32,6 +32,10 @@ $light-grey: hsla(0, 0%, 95%, 1)!default;
 /// @type Color
 $white: hsla(0, 0%, 100%, 1)!default;
 
+/// Medium grey
+/// @type Color
+$med-grey: hsla(0, 0%, 65%, 1) !default;
+
 /// Dark grey
 /// @type Color
 $dark-grey: hsla(208, 18%, 21%, 1) !default;
@@ -59,9 +63,9 @@ $max-width: 800px !default;
 /// @prop {Map} values - Values are actual breakpoints expressed in pixels
 $mq-breakpoints: (
     vsmall:  320px,
-    small:  740px,
-    medium: 980px,
-    large:    1300px
+    small:   740px,
+    medium:  980px,
+    large:   1300px
 );
 
 

@@ -1,8 +1,7 @@
 <footer>
     <div id="footer">
         <div class="container">
-            <p>{{ with .Site.Copyright | safeHTML }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "author" }}{{ $.Site.Params.author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</p>
-            <p>Powered by <a href="http://gohugo.io" target="_blank" rel="nofollow">Hugo</a></p>
+            <p>{{ with .Site.Copyright | safeHTML }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "author" }}{{ $.Site.Params.author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }} | Powered by <a href="http://gohugo.io" target="_blank" rel="nofollow">Hugo</a></p>
         </div>
     </div>
 </footer>

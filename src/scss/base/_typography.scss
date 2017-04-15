@@ -35,6 +35,6 @@ body {
 }
 
 // The main heading
-.large-text { @include type-setting(4); }
-.medium-text { @include type-setting(2); }
+h1, h2, h3, .large-text { @include type-setting(4); }
+h4, h5, .medium-text { @include type-setting(2); }
 .normal-text { @include type-setting(0); }

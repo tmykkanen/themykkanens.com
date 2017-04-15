@@ -2,4 +2,14 @@
  display: block;
  height: auto;
  max-width: 100%;
+ margin: auto;
+}
+
+.img-shadow {
+    padding: 5px;
+    border: solid 1px $light-grey;
+    -moz-box-shadow: 1px 1px 5px $med-grey;
+    -webkit-box-shadow: 1px 1px 5px $med-grey;
+    box-shadow: 1px 1px 5px $med-grey;
+    background-color: $white;
 }

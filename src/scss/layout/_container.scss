@@ -4,7 +4,8 @@
 
 .container {
   width: auto;
-  max-width: 800px;
+  max-width: 1040px;
+  min-width:  mq-get-breakpoint-width(vsmall);
   text-align: center;
 }
 .container .text-muted {
