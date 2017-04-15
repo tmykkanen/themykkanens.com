@@ -12,7 +12,8 @@
 
   .navbar-brand {
     color: $light-grey;
-    @include type-setting(0);
+    line-height: 1rem;
+    padding-top: 10px;
   }
 
   .navbar-brand:focus,
@@ -28,7 +29,7 @@
   .navbar-nav > li > a {
     color: $light-grey;
     transition: all .5s ease;
-    @include type-setting(0);
+    padding: 1rem;
   }
 
   .navbar-nav > li > a:focus,

@@ -7,4 +7,7 @@ title = "Support Update - April"
 type = "post"
 +++
 
- I'm 45% funded!
+<img src="/images/100-people.png" class="img-responsive">
+<br>
+<br>
+ Thanks to the generosity of many people, I'm 45.86% funded! Praise the Lord for his goodness. Will you join me in praying for God to provide the $2,003 still needed?

@@ -7,7 +7,7 @@
  }
 
  $base-font-size: 1rem;
- $base-line-height: $base-font-size * 1.3;
+ $base-line-height: $base-font-size * 1.333;
 
  $line-heights: (
   -1: $base-line-height,
@@ -18,13 +18,13 @@
 
 /// Type scale
 $type-scale: (
-  -2: 0.5rem,
-  -1: 0.707rem,  // small text
+  -2: 0.563rem,
+  -1: 0.75rem,  // small text
   0: 1rem,       // body text
-  1: 1.414rem,
-  2: 1.999rem,   // medium text
-  3: 2.827rem,
-  4: 3.998rem    // large text
+  1: 1.333rem,
+  2: 1.777rem,   // medium text
+  3: 2.369rem,
+  4: 3.157rem    // large text
 );
 
 /// Body base
@@ -35,6 +35,7 @@ body {
 }
 
 // The main heading
-h1, h2, h3, .large-text { @include type-setting(4); }
-h4, h5, .medium-text { @include type-setting(2); }
+.large-text { @include type-setting(3); }
+.medium-text { @include type-setting(2); }
+.normalplus-text { @include type-setting(1); }
 .normal-text { @include type-setting(0); }

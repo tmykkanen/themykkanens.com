@@ -20,4 +20,5 @@ Our prayer is that this trip will bear near and long-term fruit for Jesus’s gl
 Please consider partnering with me in this ministry through financial generosity and prayer.
 
 For the sake of the name of Jesus,
+
 Tyler Mykkanen
