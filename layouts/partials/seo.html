@@ -1,0 +1,7 @@
+{{ if .Params.og_image }}
+<meta property="og:image" content="{{ .Params.og_image | absURL }}"/>
+<meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
+{{ else }}
+<meta property="og:image" content="{{ .Site.Params.og_image | absURL }}"/>
+<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
+{{ end }}

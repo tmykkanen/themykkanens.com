@@ -15,6 +15,7 @@ publishDir =  "docs"
   avatar = "profile.png"
   author = "The Mykkanens"
   description = "Personal website for the Mykkanen family."
+  og_image = "/images/family.jpg"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
