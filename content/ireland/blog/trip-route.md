@@ -5,6 +5,7 @@ description = ""
 tags = []
 title = "Ireland Trip Route"
 type = "post"
+og_image = "/images/trip-route.png"
 +++
 
 <img src="/images/trip-route.png" class="img-responsive">
