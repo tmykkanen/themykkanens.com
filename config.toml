@@ -11,6 +11,11 @@ publishDir =  "docs"
 [permalinks]
   post = "/:year/:month/:day/:slug"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
 [params]
   avatar = "profile.png"
   author = "The Mykkanens"
