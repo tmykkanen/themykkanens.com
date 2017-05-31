@@ -2,7 +2,8 @@
 categories = []
 date = "2017-05-23T19:11:49-05:00"
 description = ""
-tags = []
+tags = ["Ireland"]
+series = ["Ireland Trip Log"]
 title = "Ireland Trip Route"
 type = "post"
 og_image = "/images/trip-route.png"

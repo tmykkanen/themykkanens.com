@@ -21,6 +21,7 @@ series = "series"
   author = "The Mykkanens"
   description = "Personal website for the Mykkanen family."
   og_image = "/images/family.jpg"
+  header-img = ""
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -39,19 +40,24 @@ series = "series"
   name = "ireland"
   weight = 100
   identifier = "ireland"
-  url = "/ireland/ireland"
+  url = "/ireland"
 [[menu.main]]
   name = "Give"
   weight = 200
   identifier = "Financial Partnership"
-  url = "/ireland/finances"
+  url = "/finances"
 [[menu.main]]
     name = "Pray"
     weight = 300
     identifier = "Prayer Support"
-    url = "/ireland/prayer"
+    url = "/prayer"
 [[menu.main]]
     name = "Trip Log"
     weight = 400
     identifier = "Trip Log"
-    url = "/ireland/blog"
+    url = "/series/ireland-trip-log"
+[[menu.main]]
+  name = "Colossians Devotional"
+  weight = 500
+  identifier = "devo"
+  url = "/series/colossians-devotional"

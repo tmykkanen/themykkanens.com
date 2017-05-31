@@ -7,7 +7,9 @@
         {{ partial "header" . }} {{ if isset .Params "showpagemeta" }} {{ .Render "projects" }} {{ else }}
         <div class="container">
             <div class="blog-post">
+              {{ if isset .Params "header-img"}}
                 {{ partial "head-img" . }}
+              {{ end }}
 
                 <div class="blog-title">
                     <h3 class="medium-text">

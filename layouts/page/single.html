@@ -9,7 +9,9 @@
       {{ else }}
       <div class="container">
         <div class="blog-post">
-          {{ partial "head-img" . }}
+          {{ if isset .Params "header-img"}}
+            {{ partial "head-img" . }}
+          {{ end }}
           <h3 class="medium-text">
             <strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong>
           </h3>

@@ -2,7 +2,8 @@
 categories = []
 date = "2017-05-11T18:07:41-05:00"
 description = ""
-tags = []
+tags = ["Ireland"]
+series = ["Ireland Trip Log"]
 title = "Fully Funded!"
 type = "post"
 +++
