@@ -1,10 +1,11 @@
 +++
 categories = []
-date = "2017-05-29T18:33:32-05:00"
+date = "2017-06-02T18:33:32-05:00"
 description = ""
 tags = ["Ireland"]
 series = ["Colossians Devotional"]
 title = "Colossians 1:1–8"
+draft = false
 +++
 
 Paul begins his letter to the church at Colossae by expressing his thankfulness for their strong faith and abundant love. Paul says this faith and love is “because of the hope laid up for you in heaven” (1:5). What kind of hope could be strong enough to sustain faith in a world marked by suffering? What kind of hope could be strong enough to promote love among sinful people? Paul writes that it is gospel hope. This gospel hope bears the fruit of faith and love. It is a gospel hope delivered by faithful ministers and stored in heaven (where it cannot be stolen). This is the gospel hope that changes lives.

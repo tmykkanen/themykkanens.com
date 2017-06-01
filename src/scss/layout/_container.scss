@@ -12,8 +12,8 @@
   margin: 20px 0;
 }
 .container a {
-  color: #ff3b3f;
+  color: $brand-color;
 }
 .container a:hover {
-  color: #c41318;
+  color: $brand-color-darker;
 }
