@@ -4,6 +4,23 @@
             <p>{{ with .Site.Copyright | safeHTML }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "author" }}{{ $.Site.Params.author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }} | Powered by <a href="http://gohugo.io" target="_blank" rel="nofollow">Hugo</a></p>
         </div>
     </div>
+    <!-- Photoswipe -->
+        <!-- Core CSS file -->
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}vendors/photoswipe.css">
+
+        <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+             In the folder of skin CSS file there are also:
+             - .png and .svg icons sprite,
+             - preloader.gif (for browsers that do not support CSS animations) -->
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}vendors/default-skin/default-skin.css">
+
+        <!-- Core JS file -->
+        <script src="{{ .Site.BaseURL }}vendors/photoswipe.min.js"></script>
+
+        <!-- UI JS file -->
+        <script src="{{ .Site.BaseURL }}vendors/photoswipe-ui-default.min.js"></script>
+
+        <script src="{{ .Site.BaseURL }}js/{{ index .Site.Data.js.hash "photoswipe-call.js" }}"></script>
 </footer>
 <div class="footer"></div>
 
