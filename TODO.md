@@ -6,6 +6,6 @@
 * Ireland/Give/Pray (type: page)
 
 - [ ] Add photo support (http://photoswipe.com/)
-- [ ] Add collapsible menu on mobile (https://codepen.io/joe-watkins/pen/Emzxf and http://blog.teamtreehouse.com/create-an-absolute-basic-mobile-css-responsive-navigation-menu)
+- [x] Add collapsible menu on mobile (https://codepen.io/joe-watkins/pen/Emzxf and http://blog.teamtreehouse.com/create-an-absolute-basic-mobile-css-responsive-navigation-menu)
 - [ ] Format series lists
-- [ ] Set up post drafting
+- [x] Set up post drafting
