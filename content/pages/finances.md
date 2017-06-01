@@ -4,7 +4,6 @@ date = "2017-04-13T15:01:53-05:00"
 tags = []
 description = ""
 title = "Financial Partnership"
-type = "page"
 header-img = "/images/ireland-header.png"
 +++
 

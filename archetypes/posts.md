@@ -1,7 +1,8 @@
 +++
-categories = []
+title = ""
 description = ""
 tags = []
+categories = []
 series = []
-title = ""
+og_image = ""
 +++

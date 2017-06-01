@@ -5,7 +5,6 @@ description = ""
 tags = ["Ireland"]
 series = ["Ireland Trip Log"]
 title = "Ireland Trip Route"
-type = "post"
 og_image = "/images/trip-route.png"
 +++
 

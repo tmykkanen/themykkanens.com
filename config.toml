@@ -40,17 +40,17 @@ series = "series"
   name = "ireland"
   weight = 100
   identifier = "ireland"
-  url = "/ireland"
+  url = "/pages/ireland"
 [[menu.main]]
   name = "Give"
   weight = 200
   identifier = "Financial Partnership"
-  url = "/finances"
+  url = "/pages/finances"
 [[menu.main]]
     name = "Pray"
     weight = 300
     identifier = "Prayer Support"
-    url = "/prayer"
+    url = "/pages/prayer"
 [[menu.main]]
     name = "Trip Log"
     weight = 400

@@ -5,7 +5,6 @@ description = ""
 tags = ["Ireland"]
 series = ["Ireland Trip Log"]
 title = "Support Update - April"
-type = "post"
 +++
 
 <img src="/images/100-people-45.png" class="img-responsive">

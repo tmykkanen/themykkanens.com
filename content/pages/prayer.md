@@ -4,7 +4,6 @@ categories = []
 tags = []
 description = ""
 title = "Prayer Support"
-type = "page"
 header-img = "/images/ireland-header.png"
 +++
 
