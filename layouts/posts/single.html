@@ -28,7 +28,9 @@
                 <div class="panel-body">
                     <div class="blogpost">
                         {{ .Content }}
-                        {{ partial "gallery" . }}
+                        {{ if isset .Params "gallery"}}
+                            {{ partial "gallery" . }}
+                        {{ end }}
                     </div>
                 </div>
             </div>
