@@ -35,11 +35,11 @@ rm -rf .git/worktrees/docs
 msg "Building the website"
 hugo
 #
-# msg "Pushing the updated \`docs\` folder to the \`master\` branch"
-# pushd public
-# git add *
-# git commit -m "$MESSAGE"
-# popd
+ msg "Pushing the updated \`docs\` folder to the \`master\` branch"
+ pushd docs
+git add *
+git commit -m "$MESSAGE"
+popd
 # git push origin master
 
 
