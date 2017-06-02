@@ -6,6 +6,7 @@ tags = ["Ireland"]
 series = ["Colossians Devotional"]
 title = "Colossians 1:9–14"
 draft = true
+og_image = "/images/ireland-header.png"
 +++
 
 How many times have you asked someone, “How can I pray for you?” Or how often have you promised to pray and then found yourself unsure of what to pray for? As we meet many in need of prayer in Ireland, what should we pray? In Colossians 1:9–14, Paul shares some of his priorities for prayer for the Colossian church. We can learn how to pray for one another by thinking about Paul’s priorities in prayer.

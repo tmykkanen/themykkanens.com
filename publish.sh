@@ -18,10 +18,10 @@ msg() {
 }
 
 # Check for out-standing changes and exit if so
-if [[ $(git status -s) ]]; then
-     msg "The working directory is dirty, please commit or stash any pending changes"
-     exit 1;
- fi
+# if [[ $(git status -s) ]]; then
+#      msg "The working directory is dirty, please commit or stash any pending changes"
+#      exit 1;
+#  fi
 
 # Remove old files & commit changes to master
 msg "Removing the old website"
