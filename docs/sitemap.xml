@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://themykkanens.com/posts/col1_1to8/</loc>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://themykkanens.com/posts/trip-route/</loc>
     <lastmod>2017-05-23T19:11:49-05:00</lastmod>
   </url>
@@ -58,8 +63,14 @@
   </url>
   
   <url>
+    <loc>http://themykkanens.com/series/colossians-devotional/</loc>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://themykkanens.com/tags/ireland/</loc>
-    <lastmod>2017-05-23T19:11:49-05:00</lastmod>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,25 +88,25 @@
   
   <url>
     <loc>http://themykkanens.com/posts/</loc>
-    <lastmod>2017-05-23T19:11:49-05:00</lastmod>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://themykkanens.com/series/</loc>
-    <lastmod>2017-05-23T19:11:49-05:00</lastmod>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://themykkanens.com/tags/</loc>
-    <lastmod>2017-05-23T19:11:49-05:00</lastmod>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://themykkanens.com/</loc>
-    <lastmod>2017-05-23T19:11:49-05:00</lastmod>
+    <lastmod>2017-06-02T18:33:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
