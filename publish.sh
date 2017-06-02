@@ -33,6 +33,9 @@ popd
 # Rebuild website
 msg "Building the website"
 hugo
+
+# Recreate CNAME
+msg "Recreating CNAME"
 pushd docs
 echo www.themykkanens.com >> CNAME
 
