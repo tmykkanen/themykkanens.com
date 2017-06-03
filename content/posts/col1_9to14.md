@@ -5,7 +5,7 @@ description = ""
 tags = ["Ireland"]
 series = ["Colossians Devotional"]
 title = "Colossians 1:9–14"
-draft = true
+draft = false
 og_image = "/images/ireland-header.png"
 +++
 
