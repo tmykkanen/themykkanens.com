@@ -1,23 +1,13 @@
 <h2>Image Gallery</h2>
 
   <div class="my-gallery">
-    <figure>
-      <a href="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_b.jpg" data-size="964x1024">
-          <img src="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_m.jpg"/>
-      </a>
-    </figure>
-
-    <figure>
-      <a href="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_b.jpg" data-size="964x1024">
-          <img src="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_m.jpg"/>
-      </a>
-    </figure>
-
-    <figure>
-      <a href="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_b.jpg" data-size="964x1024">
-          <img src="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_m.jpg"/>
-      </a>
-    </figure>
+    {{ range .Params.gallery }}
+        <figure>
+          <a href="{{ $.Site.BaseURL }}images/{{ . }}" data-size="964x1024">
+              <img src="{{ $.Site.BaseURL }}images/{{ . }}"/>
+          </a>
+        </figure>
+    {{ end }}
   </div>
 
 
