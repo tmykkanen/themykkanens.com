@@ -41,23 +41,3 @@ series = "series"
   weight = 100
   identifier = "ireland"
   url = "/pages/ireland"
-[[menu.main]]
-  name = "Give"
-  weight = 200
-  identifier = "Financial Partnership"
-  url = "/pages/finances"
-[[menu.main]]
-    name = "Pray"
-    weight = 300
-    identifier = "Prayer Support"
-    url = "/pages/prayer"
-[[menu.main]]
-    name = "Trip Log"
-    weight = 400
-    identifier = "Trip Log"
-    url = "/series/ireland-trip-log"
-[[menu.main]]
-  name = "Colossians Devotional"
-  weight = 500
-  identifier = "devo"
-  url = "/series/colossians-devotional"
