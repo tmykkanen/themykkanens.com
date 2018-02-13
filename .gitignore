@@ -3,3 +3,5 @@ data/**/hash.*
 static/css
 static/js
 public/
+
+.DS_Store
